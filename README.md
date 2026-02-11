@@ -1,6 +1,6 @@
 # 📊 Análisis del Mercado de Autos Usados en Lima (NeoAuto)
 
-![Dashboard Power BI – Autos usados en Lima](images/dashboard.png)
+![Dashboard Power BI – Autos usados en Lima](dashboard_autos.png)
 ## 📌 Descripción del proyecto
 
 Este proyecto analiza el mercado de autos usados publicados en **NeoAuto** para la ciudad de **Lima, Perú**, con el objetivo de identificar patrones de precios y entender qué factores influyen en la valorización de los vehículos.
